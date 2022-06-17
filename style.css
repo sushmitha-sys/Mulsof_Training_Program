@@ -15,3 +15,13 @@ table,tr,th,td{
 td{
     background-color:#33ffdd;
 }
+
+form{
+    margin: 40px;
+    background-color: aquamarine;
+    width: 200px;
+    text-align: center;
+    
+}
+
+}
