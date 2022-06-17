@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+    /* box-sizing: border-box; */
+}
+table,tr,th,td{
+    margin-top: 60px;
+    margin-left: 60px;
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 8px;
+   
+
+}
+td{
+    background-color:#33ffdd;
+}
